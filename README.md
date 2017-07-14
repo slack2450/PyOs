@@ -1,6 +1,6 @@
 # PyOs  
-##Information:  
+## Information:  
 Creator: Joss Bird  
-##Features:  
+## Features:  
 \- Login System
 \- Stored Logins
